@@ -36,6 +36,10 @@
     margin: 0 auto;
     align-items: center;
   }
+
+  .heading-card {
+    margin: 0 auto;
+  }
 }
 
 .chat-box-card {
