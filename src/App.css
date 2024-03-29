@@ -126,9 +126,12 @@
     height: 25px;
     width: 25px;
   }
+}
+
+@media screen and (max-width: 767px) {
   .bot-logo {
-    height: 25px;
-    width: 25px;
+    height: 30px;
+    width: 60px;
   }
 }
 
